@@ -1,7 +1,10 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Matias Cambareri</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola!+Soy+MatiCamba!;Soy+Desarrollador+Full-Stack+...;Me+gustar+estar+en+constante+aprendizaje;y+soy+fan+de+Crossfit)](https://git.io/typing-svg)
 
 
 ## Sobre Mi :
@@ -23,7 +26,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,materialui,react,vite,git" />
 
-h2>Back End</h2>
+<h2>Back End</h2>
 
 <img src="https://skillicons.dev/icons?i=nodejs,npm,express,sequelize,firebase,mongodb,postman" />
 
@@ -33,8 +36,9 @@ h2>Back End</h2>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linkedin" />
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a src="https://www.linkedin.com/in/matias-cambareri-781a9317b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 <br>
 
@@ -45,5 +49,6 @@ h2>Back End</h2>
 
 <br>
 
+Credit : [MatiCamba](https://github.com/MatiCamba)
 
 Ultima Actualizacion: 01/09/2024
