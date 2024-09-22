@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Matias Cambareri</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=40&lines=Soy+Desarrollador+Full-Stack+...;Me+gustar+aprender;y+soy+fan+de+Crossfit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&weight=600&pause=1000&color=0DA94A&width=435&lines=Soy+Desarrollador+Full+Stack;Me+encanta+Aprender;Soy+Fan+de+Crossfit)](https://git.io/typing-svg)
 
 
 ## Sobre Mi :
