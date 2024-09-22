@@ -37,7 +37,7 @@
 <br>
 
 <a src="https://www.linkedin.com/in/matias-cambareri-781a9317b">
-    <img src="https://www.linkedin.com/in/matias-cambareri-781a9317b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:Matías.cambareri35@gmail.com">
@@ -54,16 +54,6 @@
 
 <br>
 
-## Algunos de Mis proyectos 📈 :
-
-<a href="https://maticamba.github.io/proyecto-pagina-web/Pages/contactanos.html">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
-
-<br>
-
-
-<br>
 
 Credit : [MatiCamba](https://github.com/MatiCamba)
 
