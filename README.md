@@ -22,7 +22,7 @@
 
 <br>
 
-<h2>Font End</h2>
+<h2>Front End</h2>
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,materialui,react,vite,git" />
 
